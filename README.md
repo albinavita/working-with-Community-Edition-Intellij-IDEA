@@ -7,7 +7,7 @@
 
 2.	Создаем **Maven** проект 
 
-![новый проект](create%20maven.png)  
+<img src="create%20maven.png" width="500"> 
 
 Далее пишем код и запускаем проект согласно видео [здесь](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+JAVA-14M+2021/block-v1:SkillFactory+JAVA-14M+2021+type@sequential+block@a974f34c439e4c1298107e45f4220693/block-v1:SkillFactory+JAVA-14M+2021+type@vertical+block@d7079e1f63d443468b3b5e62797486f0)  
 
