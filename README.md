@@ -14,4 +14,9 @@
 
 3.	**Работа с базами данных**    
 
-Для подключения к созданной базе данных  в созданный файл pom.xml добавляем зависимость как показано в [Практикум](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+JAVA-14M+2021/block-v1:SkillFactory+JAVA-14M+2021+type@sequential+block@baf93843447246a490f97da89064dd20/block-v1:SkillFactory+JAVA-14M+2021+type@vertical+block@4fed894666c243519bf08419e238e12b)
+Для подключения к созданной базе данных  в созданный файл pom.xml добавляем зависимость как показано в [Практикум](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+JAVA-14M+2021/block-v1:SkillFactory+JAVA-14M+2021+type@sequential+block@baf93843447246a490f97da89064dd20/block-v1:SkillFactory+JAVA-14M+2021+type@vertical+block@4fed894666c243519bf08419e238e12b)  
+
+4.**Система сборки Gradle**  
+Gradle проект создается также как и Maven, только вместо Maven выбираем Gradle и выбираем **Gradle DSL**  
+
+<img src="create%20gradle.png" width="500"> 
